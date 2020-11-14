@@ -3,4 +3,4 @@ import typer
 
 
 def main(source="content", dest="dist"):
-    config = {"config": source, "dest": dest}
+    config = {"source": source, "dest": dest}
