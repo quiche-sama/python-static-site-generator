@@ -18,5 +18,3 @@ class Parser:
         with open(path, "r") as file:
             return file.read()
 
-
-test
